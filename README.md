@@ -1,4 +1,4 @@
-# darkglasstheme
+# Dark Glass Theme
 A Dark Glass Theme for WAKFU 
 
 Theme updated to version 1.81
